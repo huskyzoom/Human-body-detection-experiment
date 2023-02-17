@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>Close (6).png</file>
+    <file>github-fill (8).png</file>
+  </qresource>
+</RCC>
